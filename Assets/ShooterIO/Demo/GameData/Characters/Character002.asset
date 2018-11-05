@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c3ea8f4b6baad499a9808da2129f8d, type: 3}
+  m_Name: Character002
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 0}
+  previewTexture: {fileID: 0}
+  title: 
+  description: 
+  price:
+    id: 
+    amount: 0
+  canBuyOnlyOnce: 0
+  isLock: 0
+  stats:
+    addMaxHp: 0
+    addMaxArmor: 0
+    addMoveSpeed: 0
+    addWeaponDamageRate: 0
+    addArmorReduceDamage: 0
+    addExpRate: 0
+    addScoreRate: 0
+    addHpRecoveryRate: 0
+    addArmorRecoveryRate: 0
+    addDamageRateLeechHp: 0
+  modelObject: {fileID: 114937887907664186, guid: e85ed620e8946b34eb3f3dfa8aab128f,
+    type: 2}
