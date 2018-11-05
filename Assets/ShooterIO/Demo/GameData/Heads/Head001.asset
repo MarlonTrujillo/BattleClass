@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -25,6 +26,7 @@ MonoBehaviour:
     addMaxArmor: 0
     addMoveSpeed: 0
     addWeaponDamageRate: 0
+    addReduceDamageRate: 0
     addArmorReduceDamage: 0
     addExpRate: 0
     addScoreRate: 0
@@ -32,4 +34,4 @@ MonoBehaviour:
     addArmorRecoveryRate: 0
     addDamageRateLeechHp: 0
   modelObject: {fileID: 1835614244095320, guid: 08821e00cd444c54a8d8cf3bc5c61715,
-    type: 2}
+    type: 3}
